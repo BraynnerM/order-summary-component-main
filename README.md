@@ -30,7 +30,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - URL da solução: [Github](https://github.com/BraynnerM/order-summary-component-main)
--  URL do site no Github Pages: [QR code component main](https://braynnerm.github.io/order-summary-component-main/)
+-  URL do site no Github Pages: [Order summary component main](https://braynnerm.github.io/order-summary-component-main/)
 
 ## Meu processo
 
